@@ -8,7 +8,7 @@ def calc(x):
 
     funk = 3*x1**2 + 2*x2**2 + 4*x3**2 + 3*x1*x2 - 2*x2 - sin(x1-x3*x2)
 
-    print("\n Варiант 3(23): ", funk , "\n")
+    print("\n Варiант 3(2224): ", funk , "\n")
 
     funk1 = diff(funk, x1)
     funk2 = diff(funk, x2)
